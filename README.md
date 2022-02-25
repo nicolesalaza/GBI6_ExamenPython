@@ -13,6 +13,7 @@
 - Tipo de sistema operativo: Sistema operativo de 64 bits, procesador x64
 
 **Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados**
-- Python
+- Python 3.9.7
+- Anaconda 4.10.3
 
 **Explicación de la data utilizada**
