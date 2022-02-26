@@ -13,7 +13,8 @@
 - Tipo de sistema operativo: Sistema operativo de 64 bits, procesador x64
 
 **Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados**
-- Python
+- Python 3.9.7
+- Anaconda 4.10.3
 
 **Explicación de la data utilizada**
 - Los ejercicios del 1 al 5 se realizaron mediante la data PubMed, a partir del keyword que es el parametro de entrada para la funcion download_pubmed. El ejercicio 3 mediante mediante la funcion mining_pubs se creo los siguientes dataframes pub_year, pub_authors y coutries
