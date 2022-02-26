@@ -17,4 +17,5 @@
 - Anaconda 4.10.3
 
 **Explicación de la data utilizada**
-- Los ejercicios del 1 al 5 se realizaron mediante la data PubMed, a partir del keyword que es el parametro de entrada para la funcion download_pubmed. El ejercicio 3 mediante mediante la funcion mining_pubs se creo los siguientes dataframes pub_year, pub_authors y coutries
+- Los ejercicios del 1 al 5 se realizaron mediante la data PubMed, a partir del keyword que es el parametro de entrada para la funcion download_pubmed. 
+- El ejercicio 3 mediante mediante la funcion mining_pubs se creo los siguientes dataframes pub_year, pub_authors y coutries
