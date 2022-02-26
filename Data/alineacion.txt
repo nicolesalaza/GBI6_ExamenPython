@@ -1,0 +1,906 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+lcl|NC_006573.1_cds_YP_170706.1_      ATGAGTGCCTCAAAGGAAATAAAATCCTTTTTGTGGACACAATCTTTGAGGAGGGAATTA
+lcl|AY772168.1_cds_AAV54105.1_2       ATGAGTGCCTCAAAGGAAATAAAATCCTTTTTGTGGACACAATCTTTGAGGAGGGAATTA
+lcl|NC_006572.1_cds_YP_170703.1_      ATGGG---------------------------GAAAACGCAGTC----------------
+lcl|NC_006573.1_cds_YP_170705.1_      ATGGG---------------------------ACAAATAGTGAC-----------ATTCT
+lcl|AY772168.1_cds_AAV54104.1_1       ATGGG---------------------------ACAAATAGTGAC-----------ATTCT
+lcl|NC_006572.1_cds_YP_170704.1_      ATGGA---------------------------GGAGTTGCTGTCCGAGAGCAAAGATCTT
+                                      ***                                        *                
+
+lcl|NC_006573.1_cds_YP_170706.1_      TCTGGTTACTGCTCCAACATCAAACTACAGGTGGTGAAAG--------------------
+lcl|AY772168.1_cds_AAV54105.1_2       TCTGGTTACTGCTCCAACATCAAACTACAGGTGGTGAAAG--------------------
+lcl|NC_006572.1_cds_YP_170703.1_      -CAAGGGACAGC-CCAGCACAAA-------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      TCCAGGAAGTGC-CTCATGTAATAGAAGAGGTGATGAACA--------------------
+lcl|AY772168.1_cds_AAV54104.1_1       TCCAGGAAGTGC-CTCATGTAATAGAAGAGGTGATGAACA--------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GTGAGCAGGTAC-CTCTTAGAGGATGAGAGGCTTTCAAAACAGAAGCTAGCCTTCCTAGT
+                                          *      * *                                              
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------ATGCCCAGGCTCTTTTACA-----------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------ATGCCCAGGCTCTTTTACA-----------
+lcl|NC_006572.1_cds_YP_170703.1_      -----------------------------------------TCTCCTCA-----------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------------------------TTGTTCTCA-----------
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------------------------TTGTTCTCA-----------
+lcl|NC_006572.1_cds_YP_170704.1_      TCAGACAGAGCCGAGAATGCTATTAATTGAGGGCCTTAAGTTGTTGTCACTCTGTATTGA
+                                                                                 *   **           
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------TGGACTTGACTTCTCCGAAGTCAGTAATGTTCAACG
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------TGGACTTGACTTCTCCGAAGTCAGTAATGTTCAACG
+lcl|NC_006572.1_cds_YP_170703.1_      ---------------------------------------AGGAG----------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------TTGCA----------CTGTCTGTAC----TAGCAG-------TGCTGAAA-
+lcl|AY772168.1_cds_AAV54104.1_1       ---------TTGCA----------CTGTCTGTAC----TAGCAG-------TGCTGAAA-
+lcl|NC_006572.1_cds_YP_170704.1_      GATAGACAGTTGCAAAGCCAATGGTTGTGAGCACAACTCAGAAGACCTTTCTGTTGAAAT
+                                                                              * **                
+
+lcl|NC_006573.1_cds_YP_170706.1_      GTTGATGCGCAAGGAGAGAAGGGATGACAATGATTTGAAACGGTTG-------AGGGACC
+lcl|AY772168.1_cds_AAV54105.1_2       GTTGATGCGCAAGGAGAGAAGGGATGACAATGATTTGAAACGGTTG-------AGGGACC
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------GGTCTGTACAAT--TTTGCAACGTGTG--------------
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------GGTCTGTACAAT--TTTGCAACGTGTG--------------
+lcl|NC_006572.1_cds_YP_170704.1_      CCTTCTGCAGAGACAAGGTGTTCTGTGCCCTGGTCTACCATTTGTGGTGCCAGATGGATT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      TAAATCAAGCGG-----------------TCAACAATCTTGTTGAA--------------
+lcl|AY772168.1_cds_AAV54105.1_2       TAAATCAAGCGG-----------------TCAACAATCTTGTTGAA--------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -----------------------------------GCCTTGTTGG---------------
+lcl|AY772168.1_cds_AAV54104.1_1       -----------------------------------GCCTTGTTGG---------------
+lcl|NC_006572.1_cds_YP_170704.1_      CAAATTCAGTGGGAACACATTAATATTACTGGAATGCTTTGTCAGGACTTCACCAATAAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -TTAAAATCAACTCAACAAAAGAGTATACTGAGAGTTGGGACTCTAA------------C
+lcl|AY772168.1_cds_AAV54105.1_2       -TTAAAATCAACTCAACAAAAGAGTATACTGAGAGTTGGGACTCTAA------------C
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -TTTGGTC---------------------------------------------ACTTTCC
+lcl|AY772168.1_cds_AAV54104.1_1       -TTTGGTC---------------------------------------------ACTTTCC
+lcl|NC_006572.1_cds_YP_170704.1_      CTTTGAGCAAAAGTATAAAGAAGATACCATTAAGCTAGAGTCTTTAAAGCCTGACTTATC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      CTCAGATGACTTATTAATCTTAGCC----------GCTGATCTA----------------
+lcl|AY772168.1_cds_AAV54105.1_2       CTCAGATGACTTATTAATCTTAGCC----------GCTGATCTA----------------
+lcl|NC_006572.1_cds_YP_170703.1_      -----------------------------------ACAGAACCA----------------
+lcl|NC_006573.1_cds_YP_170705.1_      TCCTGTTG------TGTGGTAGGTCTT--------GCACAACCAGTCTTTATA-------
+lcl|AY772168.1_cds_AAV54104.1_1       TCCTGTTG------TGTGGTAGGTCTT--------GCACAACCAGTCTTTATA-------
+lcl|NC_006572.1_cds_YP_170704.1_      ATCTGTTGACATCATTCTGTTGCCCTTGATAGACGGCAGAACCAATTTCTACACTGATTT
+                                                                          *  * * *                
+
+lcl|NC_006573.1_cds_YP_170706.1_      -------------------GAGAAGTTAAAG-----------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       -------------------GAGAAGTTAAAG-----------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------AAGGGGTTTATG------------AGCTT------------
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------AAGGGGTTTATG------------AGCTT------------
+lcl|NC_006572.1_cds_YP_170704.1_      GTTTCCAGAATGGGCCAATGAGAGGTTTAGGCATATCCTATTTAGCTTACTTGAATTCTC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCAGCAGTCATCAAAAATGTTTGAAGAATCTGAGTACTCAAGGCTTTGTGAATCTTTAAC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -----------------------------------------------------TCAAAGG
+lcl|AY772168.1_cds_AAV54105.1_2       -----------------------------------------------------TCAAAGG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -----------------------------------------------CAGACTCTGGAAC
+lcl|AY772168.1_cds_AAV54104.1_1       -----------------------------------------------CAGACTCTGGAAC
+lcl|NC_006572.1_cds_YP_170704.1_      AAAAGCAGGAGTGAGAACATCGGGCATTGAGAGCCTCAATGTTTTGACAGATTCTCGATC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      TGATCAGAACAGAAAGGCCATTAAGTGCAGGTGTCTATAT--------------------
+lcl|AY772168.1_cds_AAV54105.1_2       TGATCAGAACAGAAAGGCCATTAAGTGCAGGTGTCTATAT--------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      TAAACAT-----------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       TAAACAT-----------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TGATCATTATGAGAGGGTGTTGGAGCTCTGCCACAGAGGCATCAATAACAAAATGTCCAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TCTTGATGTGAAAAAAGAGATTGTATCAGAATTTCATGCTTTTAGGAATAAGCTTAAAGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GGGTGAGATAGAAAGACAATTTGTCAGGACAGATAGGCGACAGCTCTTGAGAGATTTCAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------GGGCAACC----------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------GGGCAACC----------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------AGGCATCC----------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------GGAGACACTC----------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------GGAGACACTC----------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CAACCTTTATATTGACAGAGAGGGGGACACACCCTCAGAGATTGATCCTCTAAAAGAGAG
+                                                               * **  *                            
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------TAAGCTCACAGC-----------AACTTGACC----------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------TAAGCTCACAGC-----------AACTTGACC----------
+lcl|NC_006572.1_cds_YP_170703.1_      -----------------------------------------AGTAATACC----------
+lcl|NC_006573.1_cds_YP_170705.1_      -----------------------------------------AATATGACC----------
+lcl|AY772168.1_cds_AAV54104.1_1       -----------------------------------------AATATGACC----------
+lcl|NC_006572.1_cds_YP_170704.1_      GTTTGTAAAATCCTCGCCTATGGTAACAGCGCTCTATGGTGACTACGACCGTTATAGGCA
+                                                                               *     ***          
+
+lcl|NC_006573.1_cds_YP_170706.1_      --------------------------------------------------------AAAG
+lcl|AY772168.1_cds_AAV54105.1_2       --------------------------------------------------------AAAG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------------------------------------ATGCC------
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------------------------------------ATGCC------
+lcl|NC_006572.1_cds_YP_170704.1_      AGAGGGAGTTGATCGAGACAGCTGCTTGCAGAATCACTTCCAAAGCTCTGTGCCTGGATG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      AAGAGCTCTCCTGAATATGATAGGAAT------------GAGTGGTGGTAATCAAGGGGC
+lcl|AY772168.1_cds_AAV54105.1_2       AAGAGCTCTCCTGAATATGATAGGAAT------------GAGTGGTGGTAATCAAGGGGC
+lcl|NC_006572.1_cds_YP_170703.1_      ---------------------------------------AGATGCCAG------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----TCTCTCCTGCACAAA--------------------GAACAACAG------------
+lcl|AY772168.1_cds_AAV54104.1_1       ----TCTCTCCTGCACAAA--------------------GAACAACAG------------
+lcl|NC_006572.1_cds_YP_170704.1_      GAAGTCACTGTTGAATAAAATAAAATCACTAAAGTTATTGAACACCAGAAGAAAACTAAT
+                                                                                     *            
+
+lcl|NC_006573.1_cds_YP_170706.1_      TCGGGCT-----------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       TCGGGCT-----------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCTGACTTTTGACGCAATCATCCTTTTGGCCCACTTAAAGGATCTTAAATGTCACGGCGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------------TCATCATT---------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------------TCATCATT---------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCTGTTAGGATCAGAATGGCTTGGCTCCTCATTCTTAAGTGTGAACGACAGATTGGTGTC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      ACTACAAGAAACACAAAAGGACCTTAAAAAGTGGATTGAAAGGAGAATGGTGAGTGCAAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GAAGAAGAAGGGAGGTGTAGGAACTCTGTGTCAGAGATCTGAGCTTATATTCTTTGACAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CATAAACAAACTCCTCACAAAGGCCAAAGAGGCATTATCCTCTGCCAGTTTGTGCTTTAG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -------------GGGAGAGATGGAGTGGTGAGAGTT-----------------------
+lcl|AY772168.1_cds_AAV54105.1_2       -------------GGGAGAGATGGAGTGGTGAGAGTT-----------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      --------------------ATATAATGG-------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       --------------------ATATAATGG-------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      AGATTATGTTAAAGAGGAAGATATACTGGAGGAGGACAGTTACGAGAGGCTTATGTTAAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      --------------------------TGGGATGTGAAAAATGCAGAGTTGCTCAGTAATC
+lcl|AY772168.1_cds_AAV54105.1_2       --------------------------TGGGATGTGAAAAATGCAGAGTTGCTCAGTAATC
+lcl|NC_006572.1_cds_YP_170703.1_      ---------------------------GGG------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      --------------------------TGGGCAATGAGACAG-------------------
+lcl|AY772168.1_cds_AAV54104.1_1       --------------------------TGGGCAATGAGACAG-------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GGAGAAAAGAGGGATTCAGCCAACAATGAGCTATGAGAAAGAAGAGGGGAATCAATTCCC
+                                                                 * *                              
+
+lcl|NC_006573.1_cds_YP_170706.1_      AGTTC--------------------GGGACCATGCCAAGTCTGA----------------
+lcl|AY772168.1_cds_AAV54105.1_2       AGTTC--------------------GGGACCATGCCAAGTCTGA----------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------------GACT-------AGAACTGA----------------
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------------GACT-------AGAACTGA----------------
+lcl|NC_006572.1_cds_YP_170704.1_      CTACCCTCTTATTGAGTTGGAAGCTGATTCCATAGAAGACCTGAGAAGACTATCTAGCAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      --CACTGGC-----------------------------------ATGTCTGACAAAACAG
+lcl|AY772168.1_cds_AAV54105.1_2       --CACTGGC-----------------------------------ATGTCTGACAAAACAG
+lcl|NC_006572.1_cds_YP_170703.1_      --AACTGGC---------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      --CCTTGAC-------------------------------------------CAACACGA
+lcl|AY772168.1_cds_AAV54104.1_1       --CCTTGAC-------------------------------------------CAACACGA
+lcl|NC_006572.1_cds_YP_170704.1_      CTCTTTGGCATTGGTGAATTCAATGAAGACATCATCAGTAGCCAAAGTGAGGCAAAATGA
+                                           ** *                                                   
+
+lcl|NC_006573.1_cds_YP_170706.1_      GGGC-------------------------------AGGTTGACTTGAATGA---------
+lcl|AY772168.1_cds_AAV54105.1_2       GGGC-------------------------------AGGTTGACTTGAATGA---------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------CCTGAATTC---------
+lcl|NC_006573.1_cds_YP_170705.1_      GCAT--------------------------------------TATTAATCACAAATTT--
+lcl|AY772168.1_cds_AAV54104.1_1       GCAT--------------------------------------TATTAATCACAAATTT--
+lcl|NC_006572.1_cds_YP_170704.1_      GTATGGTGCTGCAAGGTACAAACGTGTACGTTGTAAGGAAGCTTTTAATCAAAGCTTTAT
+                                                                                  * ***           
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CATGGGAAGCGGGAATTTCAACTTAATTTATCAGAAAACAGGAGAGTGCTCAAAATGTTA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TGCCATTAACAATCCTGAGAAGGGGGAGATTTGTTCATTCTATGCAGATCCAAAAAGGTT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------TGCAGT------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------TGCAGT------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------TGCAA-------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------TGCAAT------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------TGCAAT------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TTTTCCTGCAATTTTCTCACACTGTGTTATCTATGAGACTATCAACACCATGATGAGTTG
+                                            ****                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -CTGTCT----------------GATGCCCACAAAA-------------------AGAAC
+lcl|AY772168.1_cds_AAV54104.1_1       -CTGTCT----------------GATGCCCACAAAA-------------------AGAAC
+lcl|NC_006572.1_cds_YP_170704.1_      GTTGTCTGAATGTATAGAACTCAGAGATCAACAAAAAACTTTAAAATTATTGCTCAAAAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -----------------------------------------ACAAGCATTGACAGATTTG
+lcl|AY772168.1_cds_AAV54105.1_2       -----------------------------------------ACAAGCATTGACAGATTTG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      CTCTATGACC---------------------------------ACGCTCTTATGAG----
+lcl|AY772168.1_cds_AAV54104.1_1       CTCTATGACC---------------------------------ACGCTCTTATGAG----
+lcl|NC_006572.1_cds_YP_170704.1_      CACCATGATCCTCATACTTGTGAACCCTAGCAAAAGAGCACAGAAGTTCTTGCAAGGTCT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      GGTTTGATCTACACAGCAAAGTATCCCAACACTTCAGA----------------------
+lcl|AY772168.1_cds_AAV54105.1_2       GGTTTGATCTACACAGCAAAGTATCCCAACACTTCAGA----------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------CATAA---------TCTCAACTTTCCA------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---------CATAA---------TCTCAACTTTCCA------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCGATACTTCATAATGGCCTTTGTTTCAGACTTCCACCATAAGCAGTTAATGGAAAAGTT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ---------------------------------CTTAGACAGGCTGACTCAAAGTCATCC
+lcl|AY772168.1_cds_AAV54105.1_2       ---------------------------------CTTAGACAGGCTGACTCAAAGTCATCC
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------------------CTTGTC---------------CATCCC
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------------------CTTGTC---------------CATCCC
+lcl|NC_006572.1_cds_YP_170704.1_      GAGGGAGGATCTCATAACAGAGCCGGAGCACCTCTTGTATAGTGTGGTGAGGAGCATTCT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      CATCCTAAATATGATTGACACCAAGAAAAGCTCTTTGAATATCTCAGGT-----------
+lcl|AY772168.1_cds_AAV54105.1_2       CATCCTAAATATGATTGACACCAAGAAAAGCTCTTTGAATATCTCAGGT-----------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------GAGC--------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      CAACTTCAATCAGTATGAGGCAATGAGC--------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       CAACTTCAATCAGTATGAGGCAATGAGC--------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CAACATCATCCTGGGTGAAGGGGTGAGCACTATGTTGACTAATAGATTTAAGTTTGTGTT
+                                                              **                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------------TATAATTTTA----------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ----------------TATAATTTTA----------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------TGCGATTTTA------------------ATGGG-GGAAAGATTA
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------TGCGATTTTA------------------ATGGG-GGAAAGATTA
+lcl|NC_006572.1_cds_YP_170704.1_      AAACCTATCATACATGTGTCATTTTATAACTAAGGAAACTCCAGATAGGTTGACAGATCA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      G-----------TGTGCAGTA------------------------------------CAA
+lcl|AY772168.1_cds_AAV54104.1_1       G-----------TGTGCAGTA------------------------------------CAA
+lcl|NC_006572.1_cds_YP_170704.1_      GATTAAGTGCTTTGAGAAGTATTTGGAGCCCAAGTTGGAGTTTGACAGTATTAACATCAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      CC----------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       CC----------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CCCATCTGAAGAGGGGGATGAAGATGAAAGGATGCTGCTGCTTGAATCAGCAAACAAATT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      --------------------TGAGTCACAGCTA---------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       --------------------TGAGTCACAGCTA---------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TTTATCCAAAGAAACCAGTATGAGTAACAACAGAATATCTTATAAAGTTCCTGGTGTGTC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      AAGAAAATTCTTCTCAATGATGACGTCTTCTTTTAACAATGGCTCTCTTTTCAAGAAAGG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -------------------------------------GCTTG------------------
+lcl|AY772168.1_cds_AAV54105.1_2       -------------------------------------GCTTG------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------TGCTGG------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------TGCTGGGGATGCA-----------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------TGCTGGGGATGCA-----------
+lcl|NC_006572.1_cds_YP_170704.1_      AGATGACCTAAGTGGGTTTAAAGATCCATTAGTTACTGCTGGGTGTGCAACAGCTCTTGA
+                                                                           *** *                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------------GGTGCAGCTGTGAA------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ----------------GGTGCAGCTGTGAA------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------TTCGAAA-----------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----GCCAACCATTGTGGTACTGTTGCAAAT-----------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ----GCCAACCATTGTGGTACTGTTGCAAAT-----------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CCTTGCAAGCAACAAAAGTGTGGTTGTGAATAAGTATACTGACGGAGAGAGGATACTTAA
+                                                              *   **                              
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------------------------------GGTGTGTTACAGA-
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------------------------------GGTGTGTTACAGA-
+lcl|NC_006572.1_cds_YP_170704.1_      TTACGATCATGATAAACTAGTGGCTGCTTCTGTTTGCCAGCTATCAGAGGTATTCCAGAG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------CTTTTATGAGGATGGCT----------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------CTTTTATGAGGATGGCT----------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GAAAACTAAATACCTCTTGAGTAAGGAGGATTATGATTATAAGGTGCAAAAGGCCATTAG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      --------------GGCAGGAGCTTG----------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       --------------GGCAGGAGCTTG----------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      --------------GGAGGGGGTTAGT---------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -----------TGGGGTGGGAGCTACAT--------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       -----------TGGGGTGGGAGCTACAT--------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TGACCTTGTTGTGGGGAAGAAGTCAGGTTCCTCAAATCCCAATTCACAAGGGGCTCCTGA
+                                                    **  *  *                                      
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------TGCTCTTGACT-------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------TGCTCTTGACT-------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CGAATTAGATGAGTTATTCTTGGATAGTTGTGCACTTGACTGTCTAGAGGATGTGAAGAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------CATG--------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------CATG--------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------CAGG--------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------CAGG-------CCGTGGCAACTG-
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------CAGG-------CCGTGGCAACTG-
+lcl|NC_006572.1_cds_YP_170704.1_      ATCTGTTGATGTCGTCCTTGAGAAGTATAGATATGACAGGAAGTTCCCTGTGGGAAATGG
+                                                                          ** *                    
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------------------------------------------------CTGGATGG
+lcl|AY772168.1_cds_AAV54105.1_2       ----------------------------------------------------CTGGATGG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------GGACTG
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------GGACTG
+lcl|NC_006572.1_cds_YP_170704.1_      GTCAGAGGAGAAGTCCTTGACAGACTTGAGGAAGGTTTTAGGTACTGAAGATGTGGGCTG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      T-----------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       T-----------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      T-------------------------------------------------ATTATGACTA
+lcl|AY772168.1_cds_AAV54104.1_1       T-------------------------------------------------ATTATGACTA
+lcl|NC_006572.1_cds_YP_170704.1_      TGTTTACTACAGACTGATCCAGGCAGAGATAGCACACCACATGGTGGAAGATTTTGATGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -------------GGCAATATGTTGGAGACAATC--------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       -------------GGCAATATGTTGGAGACAATC--------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      GTTATCAATATCT--------------GATAATCC-------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       GTTATCAATATCT--------------GATAATCC-------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GTCACTACTACCTGGAGATGCTTATGAGATGATCTGCAAAGGCTTTTTTAAGGATTTGGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GTTAAGGTCAAAGTATTTCTATTTGGATTCCTTGGACTCTTGCCCAATAACATGCATCAC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CCAAGCTGTCTCCACCAGAACATTCAATGACCAGCAGTTTTTTCAGTGCTTCAAGTCACT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ---------------------------------AAGGTGTCACC----------------
+lcl|AY772168.1_cds_AAV54105.1_2       ---------------------------------AAGGTGTCACC----------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------------------AAAATACAACC----------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------------------AAAATACAACC----------------
+lcl|NC_006572.1_cds_YP_170704.1_      ACTTCTTCAGATGAATGCAGGGAAATTGGCTGGAAAATACAGCCATTACAAAAACAAATG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CTTAAACTTCAAGATTGATAGAGAAAGGCTGATGAATGATGTTAGGATCAGTGAAAGAGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -----------------TCAGACAATGGATGGTATCCTCAAAT----------CCATTTT
+lcl|AY772168.1_cds_AAV54105.1_2       -----------------TCAGACAATGGATGGTATCCTCAAAT----------CCATTTT
+lcl|NC_006572.1_cds_YP_170703.1_      -----------------TGCAACGATCACTAC---------------------CTATGTT
+lcl|NC_006573.1_cds_YP_170705.1_      -----------------TGGGAAGATCACTGC---------------------CAATTCT
+lcl|AY772168.1_cds_AAV54104.1_1       -----------------TGGGAAGATCACTGC---------------------CAATTCT
+lcl|NC_006572.1_cds_YP_170704.1_      GAGCAATTCTGAGGCATTAGGTAAAGCACTGTCATTGACAAATTGTACAACTGCAGTTCT
+                                                       *      *    *                       *  *  *
+
+lcl|NC_006573.1_cds_YP_170706.1_      AAA--------------------------------GGTCAAGAAGGCTCTTGGAATG---
+lcl|AY772168.1_cds_AAV54105.1_2       AAA--------------------------------GGTCAAGAAGGCTCTTGGAATG---
+lcl|NC_006572.1_cds_YP_170703.1_      TGA---------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      CGAGACCAT------------------CTCCCATCGGTTAT-------CTCGGG------
+lcl|AY772168.1_cds_AAV54104.1_1       CGAGACCAT------------------CTCCCATCGGTTAT-------CTCGGG------
+lcl|NC_006572.1_cds_YP_170704.1_      AAAGAACCTATGTTTTTACAGTCAAGAATCCCCACAGTCATACACATCCTTGGGTCCTGA
+                                        *                                                         
+
+lcl|NC_006573.1_cds_YP_170706.1_      ---------------------TTCATTTCA------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ---------------------TTCATTTCA------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ---------------------ACTGTCTTA------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------CTCCTCTCACAAAGGAC-------------TAGAGATAT
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------CTCCTCTCACAAAGGAC-------------TAGAGATAT
+lcl|NC_006572.1_cds_YP_170704.1_      TACTGGAAGGCTCAAGTTTTCCTTATCTTACAAAGAACAAGTTGGAGGGAACAGGGAACT
+                                                               * * *                              
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------GACACCCCTGGTGAA---------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------GACACCCCTGGTGAA---------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      TTATAT--------------------------------TAGTAGAAGATTGCT-------
+lcl|AY772168.1_cds_AAV54104.1_1       TTATAT--------------------------------TAGTAGAAGATTGCT-------
+lcl|NC_006572.1_cds_YP_170704.1_      TTATATAGGTGACCTGAGGACAAAAATGTTCACACGCCTAATTGAGGATTATTTTGAGGC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      ACTAACTAAGCAATATAGAGGGAGCTGTCTTAATAATGAGAAGGAATTCCACAATGCCAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TCTAGCCATGAAATTGAATGTTTCACTAGGTCAGGTCTCTTATAGCCTCGATCACAGCAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GTGGGGGCCTATGATGTCCCCTTTTCTTTTCCTGGTGTTTCTTCAAAATTTGCGATGGGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------------------------------------------------------AG
+lcl|AY772168.1_cds_AAV54105.1_2       ----------------------------------------------------------AG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------------------------------------------AG
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------------------------------------------AG
+lcl|NC_006572.1_cds_YP_170704.1_      GACAGGAGATGATATAGAGGACATAAAAAGTAAGGATTACGTGTCCACTTTGCTGTCGTG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      GAATCCTTATG-------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       GAATCCTTATG-------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      -CACTTTTACA-------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      GCACATTCACA-------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       GCACATTCACA-------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCACATTCACAAGTTAATTGAGGTACCTTTCAATGTTGTGAATGCAATGATGAGATCTTA
+                                        *   * *                                                   
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TCTTAAGTCTAGGTTAGGTTTGAAAAAATCACTCCACCAAACGTCAACAGAAGCTTTCTT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------AAAACATACTCTACAAGAT-----------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------AAAACATACTCTACAAGAT-----------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------CACAGTGTCAGAT-----------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------TGGACACTGTCAGAT-----------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------TGGACACTGTCAGAT-----------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CTTTGAATACTTTAAACAAAACAGGATACCATCACATCTCAGCTCAATAATTGACATGGG
+                                                               *       * **                       
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCAAGGGATCTTGCACAATGCTTCTGACTTCTACGGTCTAGTGAGTGAGAGATTCATAAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------TTGTTTGTCAGGAGATGGAT----------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------TTGTTTGTCAGGAGATGGAT----------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------TCTGAAGGTGAAG-------ACACACC--------------
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------TCTGAAGGTGAAG-------ACACACC--------------
+lcl|NC_006572.1_cds_YP_170704.1_      TTATTGCATTAAGTGTCTATTTGAAGATGAAGTTGATTCATATACCTCTAGTGATGATCA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      AATATCACTATTTGGCAAGGATCTTTCAGATTTACTCTCAAATGAGCCTGAGGAATTCCA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -----------------------------------------------------------G
+lcl|AY772168.1_cds_AAV54105.1_2       -----------------------------------------------------------G
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -----------------------------------------------------------A
+lcl|AY772168.1_cds_AAV54104.1_1       -----------------------------------------------------------A
+lcl|NC_006572.1_cds_YP_170704.1_      AGCCATTCTAGAATTTCACTATTTCCTAAGTGATCAATTGAATAAATTCATCAGTCCAAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      GCCATATATTGCATC---------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       GCCATATATTGCATC---------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      GGGGGATATTGTCT----------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       GGGGGATATTGTCT----------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GAGTGTTATTGGTTCATTTGTTGCTGAGTTCAAATCAAGGTTTTATGTCTGGGGTGATGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      AGTTCCATTGTTAACGAAATTCGTGGCTGCCGCCCTCCACAACGTTAAGTGTAAGGAGCC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      ACATCAATTAGCTGAAACTATTGACACTATCATTGATCAGTCAGTGGCCAATGGTGTGCC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TGTCACACTATGTAACGCTATTCAGGAGAGAACACTGAATCTACTTAGATATGCACAATA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -------------------------------------------AAGAACCTCAATAACAG
+lcl|AY772168.1_cds_AAV54105.1_2       -------------------------------------------AAGAACCTCAATAACAG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------------------------------------------GACCAGGTGGATGCTAA
+lcl|AY772168.1_cds_AAV54104.1_1       -------------------------------------------GACCAGGTGGATGCTAA
+lcl|NC_006572.1_cds_YP_170704.1_      TCCCATTGATCCTTTCTTGTTGTTTTTGGATTCTGATGTTAAAGATTGGGTTGATGGCAA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      GAAGGGC-----------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       GAAGGGC-----------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      -AGGTGC-----------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      TTGAGGC-----------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       TTGAGGC-----------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TAGGGGCTATAGGATTATGAGGAACATTGAGGCAATCCTACCAGAAAGCACTCAGAAAGT
+                                           **                                                     
+
+lcl|NC_006573.1_cds_YP_170706.1_      ---------CTGGGAAAACACTGTCGTTGATCTGGAATCAGATGGGAAGCCACAGAAAGC
+lcl|AY772168.1_cds_AAV54105.1_2       ---------CTGGGAAAACACTGTCGTTGATCTGGAATCAGATGGGAAGCCACAGAAAGC
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------------TGAACTAAAAT-------G-CTTCGGGAA----
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------------TGAACTAAAAT-------G-CTTCGGGAA----
+lcl|NC_006572.1_cds_YP_170704.1_      TAGGAAGGTCCTAAGGACAGTTTTTAATAAGCTGAAATTAGGAGAG-CTTCATGAAGAAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      TGACAGCAAC------------AATTCCAGTAAATCCCTGCAGTCGGC------------
+lcl|AY772168.1_cds_AAV54105.1_2       TGACAGCAAC------------AATTCCAGTAAATCCCTGCAGTCGGC------------
+lcl|NC_006572.1_cds_YP_170703.1_      -CCCATCTGC----------------------------------AAAC------------
+lcl|NC_006573.1_cds_YP_170705.1_      -CACAGCTGT------------------GGCAAAATGTAATGAGAAGC------------
+lcl|AY772168.1_cds_AAV54104.1_1       -CACAGCTGT------------------GGCAAAATGTAATGAGAAGC------------
+lcl|NC_006572.1_cds_YP_170704.1_      TCACAGCCATCTACTTGTCAGGAGACCCCGCAGATTCCTTCAAGAAACTTACCAGCCTTG
+                                         ** *                                        *            
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------AGGGTTTACCGCTGGGCTTACCTATTC---------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------AGGGTTTACCGCTGGGCTTACCTATTC---------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---ATGATGA--------------GGAATTTTGTGACATGCT------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---ATGATGA--------------GGAATTTTGTGACATGCT------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TTGGTGATGACACCCTCTCAGAAGAGGATTTATCGGTGTGTTGGCTTAATTTGACAACTC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      --------------------------------------------GAGGCTGTTTGACT--
+lcl|AY772168.1_cds_AAV54104.1_1       --------------------------------------------GAGGCTGTTTGACT--
+lcl|NC_006572.1_cds_YP_170704.1_      ATCACCCTTTAAAGATGGTCATGAGACAGAAGGTCATTTACACAGGTGCTGTTGAACTCG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GGGAAGAAAAACTGCCTACCTTGGTGAAAACATTGCAAAGCAAGTTATCCTCTAATTTCA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ---------------------------------TCAGCTGA--TGACCCTCAAGGA----
+lcl|AY772168.1_cds_AAV54105.1_2       ---------------------------------TCAGCTGA--TGACCCTCAAGGA----
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------ACAAAC-TACCCTTCAGACT----
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------------------TCAACAAACAAGCCATTCAAAGG----
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------------------TCAACAAACAAGCCATTCAAAGG----
+lcl|NC_006572.1_cds_YP_170704.1_      CAAGAGGGGCACAAAAGTTGCTCTGTGAAGCCGTCAACAAAAGTGCCTTTCAGAGTGGGA
+                                                                           *  *     *  ***        
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TAGCATCAGGTTTCATAGGTCTTTGCAAGACACTAGGTAGCAAATGTGTTCGATTCTCAG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      ATAGGTCCACCGCCTATATAAAATCATTAGTTTCAAGACTGTCAGCATTGGATTCTGTTT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -----TGCAATGCTGCAA------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       -----TGCAATGCTGCAA------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      --------AGAGCTCCAG------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -----TTGAAAGCTGAAG-------------------------------CACAAATG---
+lcl|AY772168.1_cds_AAV54104.1_1       -----TTGAAAGCTGAAG-------------------------------CACAAATG---
+lcl|NC_006572.1_cds_YP_170704.1_      CCAGCTTGAAAGTTAAGGGCGTCGATCTTTGGATCTTGGGTAAGGAGCACACAAAGGCAG
+                                              *  * *                                              
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------CTTGAC
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------CTTGAC
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -------AGCATTCAGT---------------------------------------TGAT
+lcl|AY772168.1_cds_AAV54104.1_1       -------AGCATTCAGT---------------------------------------TGAT
+lcl|NC_006572.1_cds_YP_170704.1_      CTGAGGAAGCGTTAGGTTTCTTGAGACCTGTCCTTTGGGATTACTTCTGCATAGCCTTAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      CCAAA---------------TGCTAAGACCTGGATGGACATTGAAGGAAGACCTGAAGAT
+lcl|AY772168.1_cds_AAV54105.1_2       CCAAA---------------TGCTAAGACCTGGATGGACATTGAAGGAAGACCTGAAGAT
+lcl|NC_006572.1_cds_YP_170703.1_      ----------------------------------------------------------AC
+lcl|NC_006573.1_cds_YP_170705.1_      CAACA------------------------------------------AAGCAGTAAATGC
+lcl|AY772168.1_cds_AAV54104.1_1       CAACA------------------------------------------AAGCAGTAAATGC
+lcl|NC_006572.1_cds_YP_170704.1_      CTACATCACTTGAGCTGGGTTCCTGGGTGTTGGGTGAACCCAAAGTGAAGGAGAAAACAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      CC------------AGTGGAAATTGCCCTCTATCAACCAAGTTCA---------------
+lcl|AY772168.1_cds_AAV54105.1_2       CC------------AGTGGAAATTGCCCTCTATCAACCAAGTTCA---------------
+lcl|NC_006572.1_cds_YP_170703.1_      CC----------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      TTT-------------GATAAATGACCAACTTATAATGAAG-------------------
+lcl|AY772168.1_cds_AAV54104.1_1       TTT-------------GATAAATGACCAACTTATAATGAAG-------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CCTCAATTCCCTTCAAGCCATGTGACTATTTCCCAATGAAGCCCACTACCACAAAACTCT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      --------------------GGCTGCTACATACACTTCTTCCGTGAACCTACTG------
+lcl|AY772168.1_cds_AAV54105.1_2       --------------------GGCTGCTACATACACTTCTTCCGTGAACCTACTG------
+lcl|NC_006572.1_cds_YP_170703.1_      --------------------AGCCG-----------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      --------------------AACC------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       --------------------AACC------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TGGAAGACAAGGTGGGGTTTAACCATATTATTCACTCATTCAGAAGACTTTACCCATCTC
+                                                            *                                     
+
+lcl|NC_006573.1_cds_YP_170706.1_      -ATTTAAAGCAGTTC---------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       -ATTTAAAGCAGTTC---------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -ATCTACGGGACATC---------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       -ATCTACGGGACATC---------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TATTTGAGAGACACCTCTTGCCCTTCATGAGTGACCTAGCATCAACGAAAATGAGGTGGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------------------------ATGGGAATT------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------------------------ATGGGAATT------------
+lcl|NC_006572.1_cds_YP_170704.1_      CACCAAGGATTAAGTTTCTTGATCTTTGTGTGGTTCTAGATGTGAATTGTGAGGCAATGT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------CCATACTGTAA---------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ----------CCATACTGTAA---------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CATTAATTTCTCATGTTGTCAAGTGGAAGAGAGAAGAGCATTATGTGGTTCTGTCTTCAG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      ATTTAGCAATAGCACATGAGAGGTCTCATCTCCCAATCACGGATGAAAGGGTGGTGACCA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CTTATGATGTGGTACAAAATTTCCTGAGACAAATCTACTTTGAGTCCTTCATCAGACCAT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------AAGCAGGATGCTAAGTAC--TCACATGGGATTGATGTCACAGACCTCTTC
+lcl|AY772168.1_cds_AAV54105.1_2       ----------AAGCAGGATGCTAAGTAC--TCACATGGGATTGATGTCACAGACCTCTTC
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---TTACAGCAAGTA-------------------TTGGT---------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---TTACAGCAAGTA-------------------TTGGT---------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TCGTTGCAACAAGCAGGACTTTAGGTTCTTTTACTTGGTTTCCACATAGATCTTCAATTC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      GCTACACAACCGGGCTTGACCAGTGCTGTCATTGATGCACTCCCCCGGAATATGGTCATT
+lcl|AY772168.1_cds_AAV54105.1_2       GCTACACAACCGGGCTTGACCAGTGCTGTCATTGATGCACTCCCCCGGAATATGGTCATT
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------ACCTCAACCAC----------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------ACCTCAACCAC----------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CTGAGTCGGAAGGGCTTGACAACCTCGGCCCCTTTTCTTCTTTTATAGAAAAGGTTATTT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ACCTGTCAGGGGTCCGATG-----------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ACCTGTCAGGGGTCCGATG-----------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      ATAAGGGTGTTGAAAGACCCATGTACAGGCATGATCTTTACTCAGGTTATGCTTGGCTGG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------------------------------ACATAAGGAAACTCCTTGAATCACAA
+lcl|AY772168.1_cds_AAV54105.1_2       ----------------------------------ACATAAGGAAACTCCTTGAATCACAA
+lcl|NC_006572.1_cds_YP_170703.1_      ----------------------------------ACAGC---------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------------------ACAACT----------------ACTG
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------------------ACAACT----------------ACTG
+lcl|NC_006572.1_cds_YP_170704.1_      ATTTTGAATGTGCACCAGCAATTCTAAACTTAGGACAGCTCATAGCATCAGGATTAACCG
+                                                                        ***                       
+
+lcl|NC_006573.1_cds_YP_170706.1_      GGAAGAAAA--------------------------------------------GACATTA
+lcl|AY772168.1_cds_AAV54105.1_2       GGAAGAAAA--------------------------------------------GACATTA
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      GG-AGAACATCACTG----------------------------------CCCAAATGTTG
+lcl|AY772168.1_cds_AAV54104.1_1       GG-AGAACATCACTG----------------------------------CCCAAATGTTG
+lcl|NC_006572.1_cds_YP_170704.1_      AGCAGCACGTCTTTGAGTCGGTAAGTGAGCTGCTTGAAGCTTTTGCCGACCTCAGTGTTG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      AACTAATTGATATTGACCTCAGTAAAACTGATTCCAGGAAGTATGAAAATGCAGTCTGGG
+lcl|AY772168.1_cds_AAV54105.1_2       AACTAATTGATATTGACCTCAGTAAAACTGATTCCAGGAAGTATGAAAATGCAGTCTGGG
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      G-----------CTTGTATC-----AAAT------------------GGTTCATACTTGA
+lcl|AY772168.1_cds_AAV54104.1_1       G-----------CTTGTATC-----AAAT------------------GGTTCATACTTGA
+lcl|NC_006572.1_cds_YP_170704.1_      GGAGCGTTCAAATTTCTGTCACAGTAAATTTTCAGGTGAGAAGTCAGGGTGAATCATTGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ACCAGTATAAAGACTTATGCCACATGCACACAGGTGTCGT--------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ACCAGTATAAAGACTTATGCCACATGCACACAGGTGTCGT--------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------ACCACC------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ACGAG-------------ACCCACTTTTC----TGATGATATTGAACAA---------CA
+lcl|AY772168.1_cds_AAV54104.1_1       ACGAG-------------ACCCACTTTTC----TGATGATATTGAACAA---------CA
+lcl|NC_006572.1_cds_YP_170704.1_      AAGAGAAATTTAGTCTCCACCTCCTTTTCAAAGGGGTGGTGTTGGAAGGTGGATTATTCA
+                                                         **                                       
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      AGC-------------------------TGACAATAT-------------------GATC
+lcl|AY772168.1_cds_AAV54104.1_1       AGC-------------------------TGACAATAT-------------------GATC
+lcl|NC_006572.1_cds_YP_170704.1_      AGCCTCATTCCCTTGATGTAACTTACAGTGGTAGTGTTCAAAGATCCGCAATTAAAGATT
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      -------TGTTGAAAAGAAGAAAAGAGGCGGTAAAGAGGAAATAACCCC----TCACTGT
+lcl|AY772168.1_cds_AAV54105.1_2       -------TGTTGAAAAGAAGAAAAGAGGCGGTAAAGAGGAAATAACCCC----TCACTGT
+lcl|NC_006572.1_cds_YP_170703.1_      -------------------------------------AGAAATCCCACCA----------
+lcl|NC_006573.1_cds_YP_170705.1_      ACTGAGATGTTACAGAAGGAG-TATATGGAGAGGCAGGGGAA-GACACCA--TTGG----
+lcl|AY772168.1_cds_AAV54104.1_1       ACTGAGATGTTACAGAAGGAG-TATATGGAGAGGCAGGGGAA-GACACCA--TTGG----
+lcl|NC_006572.1_cds_YP_170704.1_      GCTGGAGAGTTGCACAGACATCTACATGGTTTAAAAGGGAAACCACATCAATTTGGTTGC
+                                                                            * **   *  *           
+
+lcl|NC_006573.1_cds_YP_170706.1_      GCACTAATGGACTGCATCATGTTTGATGCAGCAG--------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       GCACTAATGGACTGCATCATGTTTGATGCAGCAG--------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -GTCTAGTTGACCTCTTTGTG-----TTCAGCACAAGTT---------------------
+lcl|AY772168.1_cds_AAV54104.1_1       -GTCTAGTTGACCTCTTTGTG-----TTCAGCACAAGTT---------------------
+lcl|NC_006572.1_cds_YP_170704.1_      TGTCCACTGAAAATATTTGTGACTACTTGAGGGATAGTTCCCCCATTCCTGATGTGATAC
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      -----TCTATCTTATT--------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       -----TCTATCTTATT--------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      CCTTGTCCGTCTTATTGAATGAGGAGATCCTGGACCTGGAGGAACATGATTTCACGCATA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------TGTCAGGAGGACTG----------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------TGTCAGGAGGACTG----------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------TCCCAAAATCCCC-----------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------AGCATCTT------CCTTCACCT----AGTCAAAATACC------------
+lcl|AY772168.1_cds_AAV54104.1_1       ---------AGCATCTT------CCTTCACCT----AGTCAAAATACC------------
+lcl|NC_006572.1_cds_YP_170704.1_      TAGGGCCTGAGCATGTTGAAATCCCCTTAGTTGTTGACTCAGGATACCTTATTGAAGGGA
+                                                                             **  *   *            
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------AACAC---------------------------------ATCGGTTTTGAGAGCA
+lcl|AY772168.1_cds_AAV54105.1_2       ------AACAC---------------------------------ATCGGTTTTGAGAGCA
+lcl|NC_006572.1_cds_YP_170703.1_      ------CACCC-------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------AACTC---------------------------------------------ATAG
+lcl|AY772168.1_cds_AAV54104.1_1       ------AACTC---------------------------------------------ATAG
+lcl|NC_006572.1_cds_YP_170704.1_      CCAGGAAACTCCTGCCCTTCAACCCCAACATCCATGACCAGGATCTTAATGTTTTTATTG
+                                             ** *                                                 
+
+lcl|NC_006573.1_cds_YP_170706.1_      GTGCTGCCCAGAGATATGGTGTTCAGAACATC----------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       GTGCTGCCCAGAGATATGGTGTTCAGAACATC----------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      GCATATTGTAGGCAAGTCGTGTCCCAAACCT-----------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       GCATATTGTAGGCAAGTCGTGTCCCAAACCT-----------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GTGAGCTAATGGAGAATCAT-TCCGAAATCTTGGAGAGATCTTTGAGCAAGATGCTGAGA
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ----------------------------GACACCTAGA----------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ----------------------------GACACCTAGA----------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ----------------------------TACAG---------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ----------------------------CACAGATTGA-ATCATATGGGC---------A
+lcl|AY772168.1_cds_AAV54104.1_1       ----------------------------CACAGATTGA-ATCATATGGGC---------A
+lcl|NC_006572.1_cds_YP_170704.1_      TCCAGAATGGACCAAGGACTACACTGGCTACAACTTGATATTATAGGGGTTGTGGGACGA
+                                                                   ***                            
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------GTCGTTCTGTAA------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------GTCGTTCTGTAA------------
+lcl|NC_006572.1_cds_YP_170703.1_      -----------------------------------------CCCCTGA------------
+lcl|NC_006573.1_cds_YP_170705.1_      TTTGTTCCTGTGGACTCTACAAACAGCCT------GGTGTGCCTGTGAAATG--------
+lcl|AY772168.1_cds_AAV54104.1_1       TTTGTTCCTGTGGACTCTACAAACAGCCT------GGTGTGCCTGTGAAATG--------
+lcl|NC_006572.1_cds_YP_170704.1_      TGCATGCCTGAAGGCTACGAAAACTTCCTTACTAGAGTGTTCTCCGGAATTGACTTCTGG
+                                                                                     *            
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54104.1_1       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GCAGATTTTAAAGGCTATAGTCTCTGCTACAGTAGATCGCAGGCTTCACTGATGATCCAG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------------------------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------------------------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------------------------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      ---------------------------------------------------GAAGAGATG
+lcl|AY772168.1_cds_AAV54104.1_1       ---------------------------------------------------GAAGAGATG
+lcl|NC_006572.1_cds_YP_170704.1_      TCTTCAGAGGGGAAGTTTAGATTAAGAGGGAGGCTGTGCAGGCCCCTCTTTGAAGAGGTG
+                                                                                                  
+
+lcl|NC_006573.1_cds_YP_170706.1_      ------------------------
+lcl|AY772168.1_cds_AAV54105.1_2       ------------------------
+lcl|NC_006572.1_cds_YP_170703.1_      ------------------------
+lcl|NC_006573.1_cds_YP_170705.1_      A-----------------------
+lcl|AY772168.1_cds_AAV54104.1_1       A-----------------------
+lcl|NC_006572.1_cds_YP_170704.1_      GGGCCTCCCCTCGACATTGAGTAG
+                                                              
